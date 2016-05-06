@@ -1,0 +1,18 @@
+div {
+	display: inline-block;
+}
+
+div#controlsCont {
+	display: inline;
+}
+div.gameControl {
+	padding: 10px;
+	margin: 5px;
+	border: 1px solid black;
+	width: 10%;
+	text-align: center;
+	background-color: #ccccff;
+}
+div.gameControlFloatRight {
+	float: right;
+}
